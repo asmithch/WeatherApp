@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "WeatherService.Infrastructure/1.0.0": {
+        "dependencies": {
+          "WeatherService.Domain": "1.0.0"
+        },
         "runtime": {
           "WeatherService.Infrastructure.dll": {}
+        }
+      },
+      "WeatherService.Domain/1.0.0": {
+        "runtime": {
+          "WeatherService.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "WeatherService.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherService.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

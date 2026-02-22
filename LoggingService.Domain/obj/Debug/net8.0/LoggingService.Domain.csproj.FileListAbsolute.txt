@@ -1,0 +1,12 @@
+C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Domain\bin\Debug\net8.0\LoggingService.Domain.deps.json
+C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Domain\bin\Debug\net8.0\LoggingService.Domain.dll
+C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Domain\bin\Debug\net8.0\LoggingService.Domain.pdb
+C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Domain\obj\Debug\net8.0\LoggingService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Domain\obj\Debug\net8.0\LoggingService.Domain.AssemblyInfoInputs.cache
+C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Domain\obj\Debug\net8.0\LoggingService.Domain.AssemblyInfo.cs
+C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Domain\obj\Debug\net8.0\LoggingService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Domain\obj\Debug\net8.0\LoggingService.Domain.sourcelink.json
+C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Domain\obj\Debug\net8.0\LoggingService.Domain.dll
+C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Domain\obj\Debug\net8.0\refint\LoggingService.Domain.dll
+C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Domain\obj\Debug\net8.0\LoggingService.Domain.pdb
+C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Domain\obj\Debug\net8.0\ref\LoggingService.Domain.dll

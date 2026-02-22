@@ -1,6 +1,9 @@
-public class RequestLog
+namespace LoggingService.Domain.Entities
 {
-    public string Id { get; set; }
-    public string Endpoint { get; set; }
-    public DateTime Time { get; set; }
+    public class RequestLog
+    {
+        public string Id { get; set; }=string.Empty;
+        public string Endpoint { get; set; }=string.Empty;
+        public DateTime Timestamp { get; set; }=string.Empty;
+    }
 }

@@ -14,6 +14,16 @@
             "related": ".xml"
           }
         }
+      },
+      "WeatherService.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/WeatherService.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WeatherService.Domain.dll": {}
+        }
       }
     }
   },
@@ -47,11 +57,17 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
+    },
+    "WeatherService.Domain/1.0.0": {
+      "type": "project",
+      "path": "../WeatherService.Domain/WeatherService.Domain.csproj",
+      "msbuildProject": "../WeatherService.Domain/WeatherService.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Newtonsoft.Json >= 13.0.4"
+      "Newtonsoft.Json >= 13.0.4",
+      "WeatherService.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -61,11 +77,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\weatherService.Application\\WeatherService.Application.csproj",
+      "projectUniqueName": "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Application\\WeatherService.Application.csproj",
       "projectName": "WeatherService.Application",
-      "projectPath": "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\weatherService.Application\\WeatherService.Application.csproj",
+      "projectPath": "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Application\\WeatherService.Application.csproj",
       "packagesPath": "C:\\Users\\ChallagundlaAsmita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\weatherService.Application\\obj\\",
+      "outputPath": "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -85,7 +101,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Domain\\WeatherService.Domain.csproj": {
+              "projectPath": "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Domain\\WeatherService.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -97,8 +117,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "10.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -120,26 +139,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.23, 8.0.23]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.23, 8.0.23]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.23, 8.0.23]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.418/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

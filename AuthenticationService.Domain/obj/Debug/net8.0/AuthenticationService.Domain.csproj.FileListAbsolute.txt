@@ -5,6 +5,7 @@ C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Domain\obj\Debug\ne
 C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Domain\obj\Debug\net8.0\AuthenticationService.Domain.AssemblyInfoInputs.cache
 C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Domain\obj\Debug\net8.0\AuthenticationService.Domain.AssemblyInfo.cs
 C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Domain\obj\Debug\net8.0\AuthenticationService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Domain\obj\Debug\net8.0\AuthenticationService.Domain.sourcelink.json
 C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Domain\obj\Debug\net8.0\AuthenticationService.Domain.dll
 C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Domain\obj\Debug\net8.0\refint\AuthenticationService.Domain.dll
 C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Domain\obj\Debug\net8.0\AuthenticationService.Domain.pdb

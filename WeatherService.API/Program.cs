@@ -1,9 +1,11 @@
+using WeatherService.Infrastructure.Services; // adjust namespace to match your project
+
 var builder = WebApplication.CreateBuilder(args);
 
 /* ✅ Swagger */
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddScoped<IWeatherProvider, WeatherProviderService>();
+builder.Services.AddScoped<IWeatherProvider, WeatherProviderServices>();
 var app = builder.Build();
 
 /* ✅ Middleware Pipeline */

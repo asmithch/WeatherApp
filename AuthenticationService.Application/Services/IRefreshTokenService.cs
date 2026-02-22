@@ -1,5 +1,8 @@
-public interface IRefreshTokenService
+namespace AuthenticationService.Application.Services
 {
-    string GenerateRefreshToken();
-    Task SaveRefreshToken(int userId, string token);
+    public interface IRefreshTokenService
+    {
+        string GenerateRefreshToken();
+        Task SaveRefreshToken(int userId, string token);
+    }
 }

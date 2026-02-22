@@ -1,10 +1,15 @@
 C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Infrastructure\bin\Debug\net8.0\LoggingService.Infrastructure.deps.json
 C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Infrastructure\bin\Debug\net8.0\LoggingService.Infrastructure.dll
 C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Infrastructure\bin\Debug\net8.0\LoggingService.Infrastructure.pdb
+C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Infrastructure\bin\Debug\net8.0\LoggingService.Domain.dll
+C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Infrastructure\bin\Debug\net8.0\LoggingService.Domain.pdb
+C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Infrastructure\obj\Debug\net8.0\LoggingService.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Infrastructure\obj\Debug\net8.0\LoggingService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Infrastructure\obj\Debug\net8.0\LoggingService.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Infrastructure\obj\Debug\net8.0\LoggingService.Infrastructure.AssemblyInfo.cs
 C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Infrastructure\obj\Debug\net8.0\LoggingService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Infrastructure\obj\Debug\net8.0\LoggingService.Infrastructure.sourcelink.json
+C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Infrastructure\obj\Debug\net8.0\LoggingS.0697887D.Up2Date
 C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Infrastructure\obj\Debug\net8.0\LoggingService.Infrastructure.dll
 C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Infrastructure\obj\Debug\net8.0\refint\LoggingService.Infrastructure.dll
 C:\Users\ChallagundlaAsmita\WeatherApp\LoggingService.Infrastructure\obj\Debug\net8.0\LoggingService.Infrastructure.pdb

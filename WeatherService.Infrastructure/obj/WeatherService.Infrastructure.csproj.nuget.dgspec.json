@@ -4,14 +4,14 @@
     "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Infrastructure\\WeatherService.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Infrastructure\\WeatherService.Infrastructure.csproj": {
+    "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Domain\\WeatherService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Infrastructure\\WeatherService.Infrastructure.csproj",
-        "projectName": "WeatherService.Infrastructure",
-        "projectPath": "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Infrastructure\\WeatherService.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Domain\\WeatherService.Domain.csproj",
+        "projectName": "WeatherService.Domain",
+        "projectPath": "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Domain\\WeatherService.Domain.csproj",
         "packagesPath": "C:\\Users\\ChallagundlaAsmita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,8 +43,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "10.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -60,26 +59,80 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.23, 8.0.23]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.23, 8.0.23]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.23, 8.0.23]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.418/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Infrastructure\\WeatherService.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Infrastructure\\WeatherService.Infrastructure.csproj",
+        "projectName": "WeatherService.Infrastructure",
+        "projectPath": "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Infrastructure\\WeatherService.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ChallagundlaAsmita\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ChallagundlaAsmita\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Domain\\WeatherService.Domain.csproj": {
+                "projectPath": "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.Domain\\WeatherService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.418/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

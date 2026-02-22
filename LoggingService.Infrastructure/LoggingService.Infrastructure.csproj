@@ -10,4 +10,8 @@
     <PackageReference Include="MongoDB.Driver" Version="3.6.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LoggingService.Domain\LoggingService.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

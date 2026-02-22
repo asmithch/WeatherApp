@@ -1,5 +1,5 @@
+using LoggingService.Domain.Entities;
 using MongoDB.Driver;
-using LoggingService.Infrastructure.Domain.Entities;
 
 namespace LoggingService.Infrastructure.Services;
 

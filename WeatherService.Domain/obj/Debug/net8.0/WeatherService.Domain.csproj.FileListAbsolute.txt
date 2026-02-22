@@ -5,6 +5,7 @@ C:\Users\ChallagundlaAsmita\WeatherApp\WeatherService.Domain\obj\Debug\net8.0\We
 C:\Users\ChallagundlaAsmita\WeatherApp\WeatherService.Domain\obj\Debug\net8.0\WeatherService.Domain.AssemblyInfoInputs.cache
 C:\Users\ChallagundlaAsmita\WeatherApp\WeatherService.Domain\obj\Debug\net8.0\WeatherService.Domain.AssemblyInfo.cs
 C:\Users\ChallagundlaAsmita\WeatherApp\WeatherService.Domain\obj\Debug\net8.0\WeatherService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ChallagundlaAsmita\WeatherApp\WeatherService.Domain\obj\Debug\net8.0\WeatherService.Domain.sourcelink.json
 C:\Users\ChallagundlaAsmita\WeatherApp\WeatherService.Domain\obj\Debug\net8.0\WeatherService.Domain.dll
 C:\Users\ChallagundlaAsmita\WeatherApp\WeatherService.Domain\obj\Debug\net8.0\refint\WeatherService.Domain.dll
 C:\Users\ChallagundlaAsmita\WeatherApp\WeatherService.Domain\obj\Debug\net8.0\WeatherService.Domain.pdb

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0OIQHFKg8mo=",
+  "dgSpecHash": "+WmjBu+rFgw=",
   "success": true,
   "projectFilePath": "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\WeatherService.API\\WeatherService.API.csproj",
   "expectedPackageFiles": [
@@ -20,11 +20,7 @@
     "C:\\Users\\ChallagundlaAsmita\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "C:\\Users\\ChallagundlaAsmita\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\ChallagundlaAsmita\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.3\\system.diagnostics.diagnosticsource.10.0.3.nupkg.sha512",
-    "C:\\Users\\ChallagundlaAsmita\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
-    "C:\\Users\\ChallagundlaAsmita\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.23\\microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
-    "C:\\Users\\ChallagundlaAsmita\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.23\\microsoft.netcore.app.host.win-x64.8.0.23.nupkg.sha512",
-    "C:\\Users\\ChallagundlaAsmita\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.23\\microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
-    "C:\\Users\\ChallagundlaAsmita\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.23\\microsoft.windowsdesktop.app.ref.8.0.23.nupkg.sha512"
+    "C:\\Users\\ChallagundlaAsmita\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -68,7 +68,7 @@ public class AuthController : ControllerBase
         {
             UserId = user.Id,
             Token = Guid.NewGuid().ToString(),
-            ExpiryDate = DateTime.UtcNow.AddDays(7)
+            ExpiresAt = DateTime.UtcNow.AddDays(7)
         };
 
         _context.RefreshTokens.Add(refreshToken);
@@ -90,7 +90,7 @@ public class AuthController : ControllerBase
             .Include(x => x.User)
             .FirstOrDefaultAsync(x => x.Token == refreshToken);
 
-        if (storedToken == null || storedToken.ExpiryDate < DateTime.UtcNow)
+        if (storedToken == null || storedToken.ExpiresAt < DateTime.UtcNow)
             return Unauthorized("Invalid refresh token");
 
         var newAccessToken = _jwtService.GenerateToken(storedToken.User);
