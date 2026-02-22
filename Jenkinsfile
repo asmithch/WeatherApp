@@ -27,7 +27,7 @@ pipeline {
                 bat 'dotnet tool install --global dotnet-sonarscanner --ignore-failed-sources || echo already installed'
                 bat 'dotnet sonarscanner begin /k:"WeatherApp" /d:sonar.host.url="http://localhost:9000" /d:sonar.login="sqa_a07e82f1bed11db5cb8b844b4813ec24818cc0c8"'
                 bat 'dotnet build WeatherApp.sln'
-                bat 'dotnet sonarscanner end /d:sonar.login="YOUR_SONAR_TOKEN"'
+                bat 'dotnet sonarscanner end /d:sonar.login="sqa_a07e82f1bed11db5cb8b844b4813ec24818cc0c8"'
             }
         }
 
