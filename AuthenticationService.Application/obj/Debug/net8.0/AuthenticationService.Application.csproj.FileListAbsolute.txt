@@ -1,0 +1,15 @@
+C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Application\bin\Debug\net8.0\AuthenticationService.Application.deps.json
+C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Application\bin\Debug\net8.0\AuthenticationService.Application.dll
+C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Application\bin\Debug\net8.0\AuthenticationService.Application.pdb
+C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Application\bin\Debug\net8.0\AuthenticationService.Domain.dll
+C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Application\bin\Debug\net8.0\AuthenticationService.Domain.pdb
+C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Application\obj\Debug\net8.0\AuthenticationService.Application.csproj.AssemblyReference.cache
+C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Application\obj\Debug\net8.0\AuthenticationService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Application\obj\Debug\net8.0\AuthenticationService.Application.AssemblyInfoInputs.cache
+C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Application\obj\Debug\net8.0\AuthenticationService.Application.AssemblyInfo.cs
+C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Application\obj\Debug\net8.0\AuthenticationService.Application.csproj.CoreCompileInputs.cache
+C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Application\obj\Debug\net8.0\Authenti.AE9395CF.Up2Date
+C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Application\obj\Debug\net8.0\AuthenticationService.Application.dll
+C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Application\obj\Debug\net8.0\refint\AuthenticationService.Application.dll
+C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Application\obj\Debug\net8.0\AuthenticationService.Application.pdb
+C:\Users\ChallagundlaAsmita\WeatherApp\AuthenticationService.Application\obj\Debug\net8.0\ref\AuthenticationService.Application.dll

@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="AuthenticationService.API/AuthenticationService.API.csproj" />
+  <Project Path="AuthenticationService.Application/AuthenticationService.Application.csproj" />
+  <Project Path="AuthenticationService.Domain/AuthenticationService.Domain.csproj" />
+  <Project Path="AuthenticationService.Infrastructure/AuthenticationService.Infrastructure.csproj" />
+  <Project Path="LoggingService.API/LoggingService.API.csproj" />
+  <Project Path="LoggingService.Domain/LoggingService.Domain.csproj" />
+  <Project Path="LoggingService.Infrastructure/LoggingService.Infrastructure.csproj" />
+  <Project Path="WeatherService.API/WeatherService.API.csproj" />
+  <Project Path="WeatherService.Application/WeatherService.Application.csproj" />
+  <Project Path="WeatherService.Domain/WeatherService.Domain.csproj" />
+  <Project Path="WeatherService.Infrastructure/WeatherService.Infrastructure.csproj" />
+</Solution>

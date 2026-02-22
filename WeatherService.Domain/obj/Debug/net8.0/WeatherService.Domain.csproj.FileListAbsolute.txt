@@ -1,0 +1,11 @@
+C:\Users\ChallagundlaAsmita\WeatherApp\WeatherService.Domain\bin\Debug\net8.0\WeatherService.Domain.deps.json
+C:\Users\ChallagundlaAsmita\WeatherApp\WeatherService.Domain\bin\Debug\net8.0\WeatherService.Domain.dll
+C:\Users\ChallagundlaAsmita\WeatherApp\WeatherService.Domain\bin\Debug\net8.0\WeatherService.Domain.pdb
+C:\Users\ChallagundlaAsmita\WeatherApp\WeatherService.Domain\obj\Debug\net8.0\WeatherService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChallagundlaAsmita\WeatherApp\WeatherService.Domain\obj\Debug\net8.0\WeatherService.Domain.AssemblyInfoInputs.cache
+C:\Users\ChallagundlaAsmita\WeatherApp\WeatherService.Domain\obj\Debug\net8.0\WeatherService.Domain.AssemblyInfo.cs
+C:\Users\ChallagundlaAsmita\WeatherApp\WeatherService.Domain\obj\Debug\net8.0\WeatherService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ChallagundlaAsmita\WeatherApp\WeatherService.Domain\obj\Debug\net8.0\WeatherService.Domain.dll
+C:\Users\ChallagundlaAsmita\WeatherApp\WeatherService.Domain\obj\Debug\net8.0\refint\WeatherService.Domain.dll
+C:\Users\ChallagundlaAsmita\WeatherApp\WeatherService.Domain\obj\Debug\net8.0\WeatherService.Domain.pdb
+C:\Users\ChallagundlaAsmita\WeatherApp\WeatherService.Domain\obj\Debug\net8.0\ref\WeatherService.Domain.dll

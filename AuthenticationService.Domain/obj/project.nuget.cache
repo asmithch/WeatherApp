@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w3GgBG6f+9I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ChallagundlaAsmita\\WeatherApp\\AuthenticationService.Domain\\AuthenticationService.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ChallagundlaAsmita\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.23\\microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\ChallagundlaAsmita\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.23\\microsoft.windowsdesktop.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\ChallagundlaAsmita\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.23\\microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
